@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 #### I am Self Taught Software Engineer, Business/Product/Data Analyst/Engineer. 
 ![I am Self Taught Software Engineer, Business/Product/Data Analyst/Engineer. ](Link)
 
-I am a resourceful individual who has a passion for Business Analytics, Information Systems, Data Analytics/Engineering/Science, Programming, and Product Management. I am currently working towards a CompTIA Security + certification to support future roles as a prospective Business Systems Analyst.
+I am a resourceful individual who has a passion for Data Analytics/Engineering/Science, and consulting. I want to find some way to build community through business and data!
 
 Skills: Python, SQL, Tableau, R, Linux
 
